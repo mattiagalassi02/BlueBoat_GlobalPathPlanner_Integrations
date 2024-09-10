@@ -39,7 +39,7 @@ If you wish to contribute further changes or fixes, follow these steps:
 - Fork this repository.
 - Create a new branch for your contribution:
   ```bash
-  git checkout -b nome-del-branch
+  git checkout -b branch-name
   ```
 - Make the necessary changes.
 - Create a pull request explaining the changes in detail and why they are needed.
