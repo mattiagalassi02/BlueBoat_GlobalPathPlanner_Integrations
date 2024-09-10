@@ -8,11 +8,11 @@ import os
 import csv
 
 # Identifiers and paths for the logs
-# identifier_astar = input('Enter identifier for A*: ')
-# identifier_rrtstar = input('Enter identifier for RRT*: ')
+identifier_astar = input('Enter identifier for A*: ')
+identifier_rrtstar = input('Enter identifier for RRT*: ')
 
-identifier_astar = "22_08_2024_18_07_08"
-identifier_rrtstar = "22_08_2024_17_45_34"
+# identifier_astar = "22_08_2024_18_07_08"
+# identifier_rrtstar = "22_08_2024_17_45_34"
 
 mapdata_path_astar = f'{os.getcwd()}/map_data/'
 mapdata_path_rrtstar = f'{os.getcwd()}/map_data/'
